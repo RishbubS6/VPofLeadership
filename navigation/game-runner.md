@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 codemirror: true
 title: Game Runner Examples
 description: Learn game development using the GameEngine framework in a contained educational environment. Build game levels, add characters, and create interactive experiences with live code editing and debugging controls.

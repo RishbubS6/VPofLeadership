@@ -20,7 +20,7 @@ def generate_markdown_file(issue_data, file_path, course):
         # Write front matter
         file.write('---\n')
         file.write(f"title: '{issue_data['title']}'\n")
-        file.write('layout: post\n')  # Adjust layout as needed
+        file.write('layout: default\n')  # Adjust layout as needed
         
         file.write('tags: [github, issue]\n')  # Add relevant tags
         file.write("courses: {'"+ course + "': {'week': " + str(issue_data['week']) + "}}\n")

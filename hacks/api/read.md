@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: API read
 permalink: /api/read
 show_reading_time: false

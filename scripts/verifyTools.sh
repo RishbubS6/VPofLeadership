@@ -13,7 +13,7 @@ touch $file_name
 
 ## Header for markdown file so that code recognizes post as a blog
 echo "---
-layout: post 
+layout: default 
 title: Sprint 1 - Verify Tools
 description: Verifying Tools and Software for Sprint 1
 type: collab

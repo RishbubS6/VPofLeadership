@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Media Bias Game
 permalink: /media/leaderboard
 ---

@@ -1,6 +1,6 @@
 ---
 toc: True
-layout: post
+layout: default
 data: tools
 title: Account Creation
 description: Learn how to create and manage course-required accounts, including a Portfolio Website, GitHub, Slack, and LinkedIn, while protecting your Personal Identifiable Information (PII).

@@ -1,6 +1,6 @@
 ---
 toc: False
-layout: post
+layout: default
 tailwind: True 
 infoGraph: os_infograph
 title: Operating System and Tools Setup 
