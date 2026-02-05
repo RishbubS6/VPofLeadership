@@ -5,11 +5,13 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! I'm Rishab Shyamal, and I'm running to be your next Vice President of Leadership.
+I believe that all of us have what it takes to lead the future and go the extra.
+As your next VP of Leadership, I will be your wingman to help you soar and unleash your inner leader.
 
-### Development Environment
+### Quick Links
 
-> Coding starts with tools, explore these tools and procedures with a click.
+> Click on these to learn a little more about me.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/Open-Coding-Society/student">
