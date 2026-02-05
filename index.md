@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Portfolio Home 
+title: Rishab Shyamal 
 hide: true
 show_reading_time: false
 ---
