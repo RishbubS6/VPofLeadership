@@ -1,6 +1,6 @@
 ---
 toc: False 
-layout: post
+layout: default
 tailwind: True 
 infoGraph: tools_infograph
 questions: tools_questions

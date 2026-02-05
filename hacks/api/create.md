@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: API create
 permalink: /api/create
 show_reading_time: false

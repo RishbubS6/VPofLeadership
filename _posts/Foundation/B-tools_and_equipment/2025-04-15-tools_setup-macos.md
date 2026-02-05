@@ -1,6 +1,6 @@
 ---
 toc: True
-layout: post
+layout: default
 data: tools
 title: MacOS Operating System and Tools Setup
 description: Setup guide for MacOS developer tools including Homebrew, Python, and more.

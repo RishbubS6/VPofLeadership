@@ -1,7 +1,7 @@
 ---
 
 toc: True
-layout: post
+layout: default
 data: tools
 title: KASM Workspace Operating System and Tools Setup
 description: Setup guide for using the Ubuntu-based KASM Workspace for development.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Teacher Toolkit
 description:
 permalink: /teacher

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: default 
 title: Portfolio Home 
 hide: true
 show_reading_time: false

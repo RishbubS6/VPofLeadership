@@ -311,7 +311,7 @@ In the front matter, you can also define things like a title and description for
   ---
   toc: true
   comments: true
-  layout: post
+  layout: default
   title: Jupyter Python Sample
   description: Example Blog!!!  This shows code and notes from hacks.
   type: ccc

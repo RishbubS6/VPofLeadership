@@ -358,7 +358,7 @@ permalink: {frontmatter_dict.get('permalink', f'/docx/{doc_name}/')}
         if not self.fm_manager:
             # Fallback to simple front matter
             front_matter = f"""---
-layout: post
+layout: default
 title: "{doc_name.replace('-', ' ').replace('_', ' ').title()}"
 date: {date_time_str} +0000
 categories: [DOCX]

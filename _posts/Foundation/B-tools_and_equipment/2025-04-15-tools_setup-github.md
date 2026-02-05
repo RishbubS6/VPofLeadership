@@ -1,6 +1,6 @@
 ---
 toc: True
-layout: post
+layout: default
 data: tools
 title: GitHub 
 description: This guide will assists as we work through the class together — this is not comprehensive as we will evolve on GitHub collaboration together!

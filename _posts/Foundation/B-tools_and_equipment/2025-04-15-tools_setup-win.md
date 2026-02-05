@@ -1,7 +1,7 @@
 ---
 
 toc: True
-layout: post
+layout: default
 data: tools
 title: Windows (WSL) Operating System and Tools Setup
 description: Setup guide for using Windows Subsystem for Linux with Ubuntu for development.

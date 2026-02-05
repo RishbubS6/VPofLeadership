@@ -16,7 +16,7 @@ def generate_markdown_file(issue_data, file_path, type):
         # Write front matter
         file.write('---\n')
         file.write(f"title: '{issue_data['title']}'\n")
-        file.write('layout: post\n')  # Adjust layout as needed
+        file.write('layout: default\n')  # Adjust layout as needed
         file.write(f"tags: [github, {type}]\n")  # Add relevant tags
         file.write(f"type: {type}\n")
         file.write("description: Automatically Populated GitHub Issue or Pull Request\n")
