@@ -6,7 +6,9 @@ show_reading_time: false
 ---
 
 Hi! I'm Rishab Shyamal, and I'm running to be your next Vice President of Leadership.
+
 I believe that all of us have what it takes to lead the future and go the extra.
+
 As your next VP of Leadership, I will be your wingman to help you soar and unleash your inner leader.
 
 ### Quick Links
@@ -30,26 +32,15 @@ As your next VP of Leadership, I will be your wingman to help you soar and unlea
 
 <br>
 
-### Class Progress
+### My DECA Story
 
-> Here is my progress through coding, click to see these online
+My DECA Story
+From the moment I walked into my first DECA conference, I started a journey full of fun, passion, and friends. DECA wasn't like my other clubs, but it was a community of driven, passionate students who pushed each other to be better. That experience 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake Game
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle
-        </div>
-    </a>
-</div>
+As a sophomore student , I've competed in ENT, ETDM, and BTDM. Each conference experience taught me valuable lessons about leadership, allowed me to meet so many cool people, and given me skills to bring home to better my community around me. Now, I'm ready to take those lessons and serve California DECA at the state level.
 
-<br>
+The VP of Leadership role resonates with me because it embodies the "Emerging Leaders" element of DECA's mission. This position isn't just about managing programs: it's about inspiring people, creating opportunities, and ensuring every member realizes their true leader. And it would be my honor to be your wingman on that journey. 
 
-<!-- Contact Section -->
 ### Get in Touch
 
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
