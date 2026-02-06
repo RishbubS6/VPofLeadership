@@ -33,4 +33,4 @@ The same skills that made me effective as SPL translate directly to VP of Leader
 - **Training in leadership development** - NYLT gave me frameworks for teaching leadership that I'm ready to share with DECA members
 - **Commitment to service** - The Scout Oath and Law taught me to put service above self, and that's exactly how I'll approach this role
 
-Scouting taught me that **leadership is earned through service, demonstrated through action, and measured by the success of those you lead**. That's the philosophy I'll bring to California DECA as your VP of Leadership.
+Scouting taught me that **leadership is earned through service, demonstrated through action, and measured by the success of those you lead**. Those are the ideals I'll bring to California DECA as your VP of Leadership.
