@@ -8,9 +8,7 @@ show_reading_time: true
 
 #### Scouting America
 
-My leadership journey didn't start with DECA—it started in Troop 685, which I've been a member of for over 5 years
-
-As **Senior Patrol Leader (SPL)**, I was responsible for leading a troop of 90+ Scouts, planning meetings, coordinating activities, and ensuring every Scout — from the newest Scout to the most experienced Eagle Scout — felt supported and valued. This role taught me how to:
+As an Eagle Scout and previous **Senior Patrol Leader (SPL)** of Troop 685, I was responsible for leading a troop of 90+ Scouts, planning meetings, coordinating activities, and ensuring every Scout — from the newest Scout to the most experienced Eagle Scout — felt supported and valued. This role taught me how to:
 
 - **Delegate effectively** while still being accountable for outcomes
 - **Lead by example** rather than by authority
