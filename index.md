@@ -32,6 +32,10 @@ As your next VP of Leadership, I will be your wingman to help you soar and unlea
 
 <br>
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:1rem;">
+    <iframe src="https://www.youtube.com/embed/XmRjGlUtLgw" title="Rishab's DECA Story" loading="lazy" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### My DECA Story
 
 My DECA Story
@@ -41,8 +45,3 @@ As a sophomore student , I've competed in ENT, ETDM, and BTDM. Each conference e
 
 The VP of Leadership role resonates with me because it embodies the "Emerging Leaders" element of DECA's mission. This position isn't just about managing programs: it's about inspiring people, creating opportunities, and ensuring every member realizes their true leader. And it would be my honor to be your wingman on that journey. 
 
-### Get in Touch
-
-> Feel free to reach out if you'd like to collaborate or learn more about our work.
-
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
