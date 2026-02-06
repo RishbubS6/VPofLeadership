@@ -3,7 +3,7 @@ layout: default
 title: My Experience
 permalink: /experience/
 comments: false
-showreadingtime: true
+show_reading_time: true
 ---
 
 #### Scouting America
