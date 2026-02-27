@@ -9,5 +9,4 @@ comments: true
 
 Hi! I'm Rishab Shyamal, running to be your Vice President of Leadership!
 
-</script>
 

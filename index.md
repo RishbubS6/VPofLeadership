@@ -13,7 +13,7 @@ As your next VP of Leadership, I will be your wingman to help you soar and unlea
 
 ### Quick Links
 
-> Click on these to learn a little more about me.
+> Click on these to learn a little more about me and why I should be your next VP of Leadership.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/Open-Coding-Society/student">
@@ -38,10 +38,9 @@ As your next VP of Leadership, I will be your wingman to help you soar and unlea
 
 ### My DECA Story
 
-My DECA Story
-From the moment I walked into my first DECA conference, I started a journey full of fun, passion, and friends. DECA wasn't like my other clubs, but it was a community of driven, passionate students who pushed each other to be better. That experience 
+From the moment I walked into my first DECA conference, I started a journey full of fun, passion, and friends. Thats because DECA isn't like other clubs, it's a community of driven, passionate students who push each other to be better. 
 
-As a sophomore student , I've competed in ENT, ETDM, and BTDM. Each conference experience taught me valuable lessons about leadership, allowed me to meet so many cool people, and given me skills to bring home to better my community around me. Now, I'm ready to take those lessons and serve California DECA at the state level.
+As a sophomore student, I've competed in ENT, ETDM, EIP, and BTDM. Each conference experience taught me valuable lessons about leadership, allowed me to meet so many cool people, and given me skills to bring home to better my community around me. Now, I'm ready to take those lessons and serve California DECA at the state level.
 
-The VP of Leadership role resonates with me because it embodies the "Emerging Leaders" element of DECA's mission. This position isn't just about managing programs: it's about inspiring people, creating opportunities, and ensuring every member realizes their true leader. And it would be my honor to be your wingman on that journey. 
+The VP of Leadership role resonates with me because it embodies the "Emerging Leaders" element of DECA's mission. This position isn't just about managing programs: it's about inspiring people, creating opportunities, and ensuring every member realizes their true leader. And it would be my honor to be your wingman on that journey.
 
