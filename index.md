@@ -17,17 +17,17 @@ As your next VP of Leadership, I will be your wingman to help you soar and unlea
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/experience" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #1e00ff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             About Me
         </div>
     </a>
     <a href="{{site.baseurl}}/aboutme" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #1e00ff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Experience
         </div>
     </a>
     <a href="{{site.baseurl}}/Sample" style="text-decoration: none;">
-        <div style="background-color: #fe2788; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #1e00ff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Work Samples
         </div>
     </a>
